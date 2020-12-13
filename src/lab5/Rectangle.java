@@ -51,8 +51,8 @@ public class Rectangle {
 			g2.drawLine(x + i * length * 2, y, x + i * length * 2 + length, y + length);
 			g2.drawLine(x + i * length * 2 + length, y, x + i * length * 2, y + length);
 			
-			g2.drawLine(x + length + i * length * 2, y , x + 2*length + i * length * 2, y + length );
-			g2.drawLine(x + length + i * length * 2 + length, y , x + length + i * length * 2, y + length );
+//			g2.drawLine(x + length + i * length * 2, y , x + 2*length + i * length * 2, y + length );
+//			g2.drawLine(x + length + i * length * 2 + length, y , x + length + i * length * 2, y + length );
 		}
 
 	}
